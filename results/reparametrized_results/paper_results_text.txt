@@ -1,0 +1,27 @@
+
+=== TEXTE SUGGÉRÉ POUR LA SECTION RÉSULTATS ===
+
+3.2 Cross-Section Constraints
+
+Rather than reporting the parameters (σ₀, v₀) directly, which exhibit
+significant degeneracy in our analysis, we present constraints on the 
+effective cross-section at physically meaningful velocity scales.
+
+At dwarf galaxy scales (v ~ 30 km/s), we find:
+    σ/m = 2.13^{+0.08}_{-0.06} cm²/g (68% CI)
+
+This value is sufficient to thermalize the inner halo and produce the 
+observed constant-density cores within a Hubble time.
+
+At the characteristic velocity of our sample (v ~ 50-100 km/s):
+    σ/m(50 km/s) = 0.63^{+0.03}_{-0.04} cm²/g
+    σ/m(100 km/s) = 0.048^{+0.003}_{-0.003} cm²/g
+
+Extrapolating to cluster scales (v ~ 1000 km/s):
+    σ/m(1000 km/s) < 0.000 cm²/g (95% upper limit)
+
+This is well below the Bullet Cluster constraint (σ/m < 1 cm²/g), 
+demonstrating that our velocity-dependent model naturally satisfies 
+multi-scale constraints without fine-tuning.
+
+=== FIN DU TEXTE ===

@@ -1,0 +1,16 @@
+# Core scientific stack for the SIDM-SPARC analysis
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+
+# Bayesian inference & plotting
+emcee>=3.1
+corner>=2.2
+
+# Progress bars
+tqdm>=4.64
+
+# Notebook environment
+jupyter>=1.0

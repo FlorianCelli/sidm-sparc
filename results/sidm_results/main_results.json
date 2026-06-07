@@ -1,0 +1,25 @@
+{
+  "sigma_0": 3.2708961889896115,
+  "sigma_0_err": [
+    0.08190131561243241,
+    0.18661254910707292
+  ],
+  "v_0": 34.90028837472825,
+  "v_0_err": [
+    0.8347958510931548,
+    0.6827238435268299
+  ],
+  "n_galaxies_total": 124,
+  "n_galaxies_fit": 124,
+  "n_galaxies_failed": 0,
+  "chi2_global": 5446.38815260821,
+  "dof_global": 2533,
+  "chi2_reduced_global": 2.1501729777371534,
+  "chi2_median": 0.7570202339634193,
+  "chi2_mean": 1.8223326862705365,
+  "chi2_std": 2.481379565004651,
+  "timestamp": "2025-11-30T16:21:03.256729",
+  "min_velocity_error_kms": 2.0,
+  "stratified_sampling": true,
+  "use_mcmc": true
+}
