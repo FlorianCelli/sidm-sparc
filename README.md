@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20586305.svg)](https://doi.org/10.5281/zenodo.20586305)
+
 # SIDM-SPARC: Velocity-Dependent Self-Interacting Dark Matter from Rotation Curves
 
 A Bayesian analysis of **124 high-quality galaxy rotation curves** from the
@@ -120,13 +122,15 @@ the SPARC team.
 
 ## Citation
 
-If you use this work, please cite the paper (a DOI will be added once archived
-on Zenodo):
+If you use this work, please cite it via its archived DOI:
 
 ```
 Celli, F. (2025). Reconciling Dwarf and Cluster Constraints on SIDM:
-Evidence for Velocity-Dependent Interactions.
+Evidence for Velocity-Dependent Interactions. Zenodo.
+https://doi.org/10.5281/zenodo.20586305
 ```
+
+DOI: [10.5281/zenodo.20586305](https://doi.org/10.5281/zenodo.20586305)
 
 ---
 
